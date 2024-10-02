@@ -1,0 +1,8 @@
+name: 'Keyword Releaser'
+description: "creates and releases based on keyword"
+runs:
+  using: "docker"
+  image: "dockerfile"
+branding:
+  icon: 'gift'
+  color: 'blue'
